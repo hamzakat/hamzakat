@@ -7,3 +7,6 @@ Hi there! 👋 I'm Hamza.
 - 🎯 Interested in statistics, modelling, machine learning, and web.
 - 🧰 Toolbox: Python - R - TypeScript - PyTorch - React.
 - 📫 hamzakattan@outlook.com
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hamzakat.hamzakat)
