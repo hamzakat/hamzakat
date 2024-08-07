@@ -6,7 +6,7 @@ Hi there! 👋 I'm Hamza.
 - 🔭 I’m currently working as a Data Analyst on social research projects.
 - 🌱 Beside that, I'm doing my Master's in AI.
 - 🎯 Interested in statistics, modelling, machine learning, and web.
-- 🧰 Toolbox: {Python, PyTorch} ∪ {R, Tidyverse} ∪ {TypesScript, React}.
+- 🧰 Toolbox: {Python, PyTorch} ∪ {R, Tidyverse} ∪ {TypeScript, React}.
 - 📫 hamzakattan@outlook.com
 
 
