@@ -1,8 +1,8 @@
 Hi there! 👋 I'm Hamza.
 
-- 🔭 I’m currently working as a Data Analyst on research projects.
-- 🌱 Beside that, I'm doing my Master's in AI.
-- 🎯 Interested in statistics, modelling, machine learning, and web.
+- 🔭 Data Analyst, working on social research projects.
+- 🌱 Doing my Master's in AI.
+- 🎯 Interested in statistics, machine learning, 3D printing, and web.
 - 🧰 Toolbox: {Python, PyTorch} ∪ {R, Tidyverse} ∪ {TypeScript, React}.
 - 📫 hamzakattan@outlook.com
 
